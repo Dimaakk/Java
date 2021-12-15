@@ -1,0 +1,5 @@
+дек. 15, 2021 7:57:26 PM Main loggingMethod
+INFO: Folder size = 14601 bytes
+Exception in thread "main" java.util.NoSuchElementException: No line found
+	at java.base/java.util.Scanner.nextLine(Scanner.java:1651)
+	at Main.main(Main.java:60)
